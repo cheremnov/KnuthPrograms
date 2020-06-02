@@ -1,4 +1,4 @@
-This is a repository with programs, made during the studying of Knuth's 
+This is a repository with programs, made during the studying of Knuth's "The art of computer programming"
 
 All programs are named:
 
